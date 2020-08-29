@@ -43,7 +43,7 @@ $ https://github.com/gustavo-gvm/senac-dd-20202-GustavoVieiraMartins.git
 
 ### 💻 Gerando o Banco de Dados
 
-> Em seu Mysql rode este  <a href="/scripts/tableDB.sql"> script </a>
+> Em seu Mysql rode este  <a href="/scripts/DB_CoronaVirus.sql"> script </a>
 
 
 # :bug: Problemas
