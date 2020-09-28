@@ -16,20 +16,15 @@ import javax.swing.ButtonGroup;
 import javax.swing.SwingConstants;
 import java.awt.SystemColor;
 import java.awt.event.ActionListener;
-import java.awt.event.MouseEvent;
-import java.awt.event.MouseListener;
 import java.text.ParseException;
 import java.awt.event.ActionEvent;
 import javax.swing.JButton;
 import javax.swing.text.MaskFormatter;
 
-import controller.PessoaController;
-import model.vo.Paciente;
-
 import javax.swing.UIManager;
 import javax.swing.JFormattedTextField;
 
-public class CadastroPessoa extends JFrame{
+public class CadastroPessoa extends JFrame {
 
 	/**
 	 * 
