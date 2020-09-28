@@ -19,7 +19,6 @@
 * [Tecnologias](#computer-tecnologias)
 * [Funcionalidades](#rocket-funcionalidades)
 * [Como rodar](#construction_worker-como-rodar)
-* [Encontrou um bug? Ou está faltando uma feature?](#bug-problemas)
 * [Licença](#closed_book-licença)
 
 
@@ -28,11 +27,15 @@
 Esse projeto foi feito utilizando as seguintes tecnologias:
 
 * [Java](https://www.java.com/)
+* [WindowBuilder](https://www.eclipse.org/windowbuilder/)
 
 # :rocket: Funcionalidades
 
 <h5>Atividade 01</h5>
-<p>Este exercício resume-se em criar uma aplicação para o controle de vacinas da Covid-19</p>
+<p>Este exercício resume-se em criar uma aplicação para o controle de vacinas da Covid-19;</p>
+
+<h5>Atividade 02</h5>
+<p>Este exercício resume-se em criar telas usando o WindowBilder;</p>
 
 # :construction_worker: Como rodar
 
@@ -40,21 +43,17 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 # Clone o Repositório
 $ https://github.com/gustavo-gvm/senac-dd-20202-GustavoVieiraMartins.git
 ```
+> Em sua IDE, converta o projeto para Maven
 
 ### 💻 Gerando o Banco de Dados
 
 > Em seu Mysql rode este  <a href="/scripts/DB_CoronaVirus.sql"> script </a>
 
 
-# :bug: Problemas
-
-Fique a vontade **para criar uma nova issue** com o respectivo título e descrição na página de issues do [Repositório](https://github.com/gustavo-gvm/senac-dd-20202-GustavoVieiraMartins/issues).
-
 # :closed_book: Licença
 
 Lançado em 2020 :closed_book:
 
-Feito com :heart: por [Gustavo Vieira Martins](https://github.com/gustavo-gvm).
 Esse projeto esta sobre [MIT license](./LICENSE).
 
 Dê uma ⭐️ se esse projeto te ajudou!
